@@ -1,0 +1,55 @@
+MEDICAL INVOICE
+
+Patient Information:
+Name: Dr. Maria Schmidt
+Date of Birth: 15.03.1985
+Address: Bahnhofstrasse 123, 8001 Zürich, Switzerland
+Phone: +41 44 123 4567
+Email: maria.schmidt@example.com
+AHV Number: 756.1234.5678.90
+
+Insurance Details:
+Insurance Company: Swiss Health AG
+Policy Number: POL-2024-001234
+Patient ID: PAT-987654
+
+Invoice Summary
+Date: 15.02.2024
+Invoice Number: INV-2024-0456
+
+Services Provided:
+- General Consultation (Dr. Hans Müller): CHF 150.00
+- Laboratory Blood Test: CHF 280.00
+- X-Ray Examination: CHF 320.00
+- Prescription Medication: CHF 85.00
+
+Total Amount Due: CHF 835.00
+
+Payment Information:
+Please remit payment to:
+IBAN: CH93 0076 2011 6238 5295 7
+Bank: UBS Switzerland AG
+Account Holder: Klinik Zürich AG
+Reference: INV-2024-0456
+
+Payment Due Date: 15.03.2024
+
+For billing inquiries, contact:
+Billing Department
+Email: billing@klinik-zurich.ch
+Phone: +41 44 987 6543
+
+Emergency Contact:
+Contact Person: Hans Schmidt (Spouse)
+Phone: +41 79 456 7890
+Email: hans.schmidt@example.com
+
+---
+CONFIDENTIAL MEDICAL DOCUMENT
+This document contains sensitive personal health information.
+Do not share without patient consent.
+
+Klinik Zürich AG
+Universitätstrasse 45
+8006 Zürich, Switzerland
+Tax ID: CHE-123.456.789
